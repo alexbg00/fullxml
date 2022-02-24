@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+<?xml-stylesheet type="text/css"  href="book.css"?>
+<bookstore  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/xampp/htdocs/1DAM2021/Lenguaje-de-marca/TODO_XML/ejercicio_xml/book.xsd">
+  <book category="COOKING">
+      <title lang="en">Everyday Italian</title>
+      <author>Giada De Laurentiis</author>
+      <year>2005</year>
+      <price>30.00</price>
+      <moneda>€</moneda>
+  </book>
+  <book category="CHILDREN">
+      <title lang="en">Harry Potter</title>
+      <author>J K. Rowling</author>
+      <year>2005</year>
+      <price>29.99</price>
+      <moneda>€</moneda>
+  </book>
+  <book category="WEB">
+      <title lang="en">XQuery Kick Start</title>
+      <author>James McGovern</author>
+      <author>Per Bothner</author>
+      <author>Kurt Cagle</author>
+      <author>James Linn</author>
+      <author>Vaidyanathan Nagarajan</author>
+      <year>2003</year>
+      <price>49.99</price>
+      <moneda>€</moneda>
+  </book>
+  <book category="WEB">
+      <title lang="en">Learning XML</title>
+      <author>Erik T. Ray</author>
+      <year>2003</year>
+      <price>39.95</price>
+      <moneda>€</moneda>
+  </book>
+</bookstore> 
